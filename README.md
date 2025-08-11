@@ -51,6 +51,8 @@ All images for this project were sourced from unsplash
 
 - Annie Spratt: https://unsplash.com/photos/group-of-people-using-laptop-computer-QckxruozjRg
 
+Icons by svgrepo.com
+
 My motivation to use CSS cascade layers came from this article by CSS-Tricks: https://css-tricks.com/css-cascade-layers/ and watching this video of its implementation by Coder Coder: https://www.youtube.com/watch?v=_0noaNi051k&t=1995s
 
 

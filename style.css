@@ -83,7 +83,10 @@ body {
     letter-spacing: 0.25px;
 }
 
-h1, h2, h3 {
+h1, 
+h2, 
+h3 {
+    color: var(--clr-secondary);
     line-height: 1.1;
     letter-spacing: -1.3px;
 }
@@ -134,7 +137,6 @@ span {
 
 
 h1 {
-    color: var(--clr-secondary);
     font-size: 3rem;
 }
 
@@ -162,6 +164,38 @@ h1 {
     background-color: var(--clr-primary);
     color: var(--clr-accent);
     border: 2px solid var(--clr-accent);
+}
+
+/* Features */
+#features {
+    background-color: var(--clr-features-bg);
+}
+
+#features h2 {
+    text-align: center;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;;
+}
+
+article {
+    background-color: var(--clr-primary);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.08);
+}
+
+img[src*=".svg"] {
+    width: 60px;
+    height: 60px;
 }
 
 
