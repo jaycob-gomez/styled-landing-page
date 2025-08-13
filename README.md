@@ -1,6 +1,6 @@
 # Codecademy Full Stack Bootcamp - Styled Landing Page
 
-A basic landing page completed as an assignment to Codecademy's Full-Stack Developer Bootcamp.
+A basic landing page completed as an assignment to Codecademy's Full-Stack Developer Bootcamp with HTML5 and CSS3.
 
 ## Table of contents
 
@@ -49,6 +49,11 @@ A basic landing page completed as an assignment to Codecademy's Full-Stack Devel
   - clamp() allowed me to set a responsive padding with a minimum, preferred, and maximum value
 
 ## Acknowledgments
+All the resources that aided in my learning and the completion of this project will be listed below, feel free to check them out and apply them to your next project!
+
+- Kevin Powell: [min(), max(), and clamp() are CSS magic!]()
+- Coding2GO: [5 CSS Tips & Tricks for better Responsive Web Design](https://www.youtube.com/watch?v=2IV08sP9m3U&t=22s)
+- Web Dev Simplified: [You Should Know These 7 CSS Responsive Sizing Features]()
 
 All images for this project were sourced from unsplash
 
