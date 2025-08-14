@@ -19,7 +19,7 @@ A basic landing page completed as an assignment to Codecademy's Full-Stack Devel
 - Users should be able to view the optimal layout for the interface depending on their device's screen size
 - All required elements and selectors should be used to create a landing page that is responsive and has a pleasant UI
 
-### Screenshot
+### Screenshots
 
 ![](./assets/screenshot1.png)
 ![](./assets/screenshot2.png)
