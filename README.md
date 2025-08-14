@@ -21,12 +21,14 @@ A basic landing page completed as an assignment to Codecademy's Full-Stack Devel
 
 ### Screenshot
 
-![](./screenshot.jpeg)
+![](./assets/screenshot1.png)
+![](./assets/screenshot2.png)
+![](./assets/screenshot3.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/jaycob-gomez/styled-landing-page?tab=readme-ov-file)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Vercel App](https://styled-landing-page.vercel.app/)
 
 ## My process
 
